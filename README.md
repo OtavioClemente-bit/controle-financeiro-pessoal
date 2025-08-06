@@ -42,6 +42,7 @@ pip install -r requirements.txt
     Execute o sistema:
 
 python financeiro.py
+```
 
 Captura de Tela
 

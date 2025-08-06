@@ -46,7 +46,7 @@ python financeiro.py
 
 Captura de Tela
 
- ![Screenshot do sistema](Programa rodando.png)
+ ![Screenshot do sistema](programa_rodando.png)
 
 Sobre o autor
 

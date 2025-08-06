@@ -46,7 +46,7 @@ python financeiro.py
 
 Captura de Tela
 
-    (Coloque aqui um print bonito do sistema em funcionamento)
+![Texto alternativo](Programa rodando.png)
 
 Sobre o autor
 
